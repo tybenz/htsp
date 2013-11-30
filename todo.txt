@@ -1,0 +1,8 @@
+e0 - header-bg
+e6 - header
+e11 - tag
+e8 - top nav
+e7 - logo
+e14/e26 - donate/paypal
+e27 - support groups
+e18 - bottom nav
